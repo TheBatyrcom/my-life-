@@ -1,53 +1,37 @@
-Hi, I'm Batyrhan 👋
+# 👨‍💻 Batyrhan | TheBatyrcom
 
-💻 Python / AI Developer🤖 Building AI assistants and experimenting with LLMs🌍 Founder of TheBatyrcom
+👨‍🦽‍➡️ Dreamer • Python / AI Developer • Music Lover 🎧
 
-🚀 About Me
+## ❤️ My Life
 
-Passionate about Artificial Intelligence and LLMs
+My name is Batyrhan. I was born in 2005.
+I am a developer who loves technology, artificial intelligence, and coding.
 
-Building my own AI project TBM AI
+Even though life has challenges, I keep moving forward.
+Programming became my way to create, learn, and build my future.
 
-Working mainly with Python 3.13
+## 💻 What I Do
 
-Interested in Conversational AI and AI assistants
+* Python Developer
+* AI / LLM enthusiast
+* Building my own assistant **TBM AI**
+* Founder of **TheBatyrcom**
 
-🛠️ Tech Stack
+## 🧠 Technologies
 
-Languages
+* Python (3.13 / 3.14)
+* AI & LLM experiments
+* GPT-2 models
+* VS Code, Git, GitHub
 
-Python (3.13 / 3.14)
+## 🎧 Personal
 
-Kazakh (Native)
+* I love music
+* I love technology
+* I believe in the future of AI
 
-Tools
+## 🚀 Goal
 
-VS Code
+Build powerful AI tools and share them with the world.
 
-Git
-
-GitHub
-
-daily.dev
-
-AI / ML
-
-GPT-2
-
-LLM Fine-tuning
-
-Conversational AI
-
-🤖 Projects
-
-TBM AI
-
-AI assistant based on GPT-2.Built with Python and focused on conversational interaction and experimentation with LLM models.
-
-🌐 Links
-
-Website: https://thebatyrcom-kz.vercel.app/
-
-GitHub: https://github.com/TheBatyrcom
-
-⭐ "Code with courage."
+⭐ *"Code with courage."*
