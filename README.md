@@ -1,53 +1,56 @@
-Hi, I'm Batyrhan 👋
+# Hi, I'm Batyrhan 👋
 
-💻 Python / AI Developer🤖 Building AI assistants and experimenting with LLMs🌍 Founder of TheBatyrcom
+💻 **Python / AI Developer**
+🤖 Building AI assistants and experimenting with LLMs
+🌍 Founder of **TheBatyrcom**
 
-🚀 About Me
+---
 
-Passionate about Artificial Intelligence and LLMs
+## 🚀 About Me
 
-Building my own AI project TBM AI
+* Passionate about **Artificial Intelligence and LLMs**
+* Building my own AI project **TBM AI**
+* Working mainly with **Python 3.13**
+* Interested in **Conversational AI and AI assistants**
 
-Working mainly with Python 3.13
+---
 
-Interested in Conversational AI and AI assistants
+## 🛠️ Tech Stack
 
-🛠️ Tech Stack
+**Languages**
 
-Languages
+* Python (3.13 / 3.14)
+* Kazakh (Native)
 
-Python (3.13 / 3.14)
+**Tools**
 
-Kazakh (Native)
+* VS Code
+* Git
+* GitHub
+* daily.dev
 
-Tools
+**AI / ML**
 
-VS Code
+* GPT-2
+* LLM Fine-tuning
+* Conversational AI
 
-Git
+---
 
-GitHub
+## 🤖 Projects
 
-daily.dev
+### TBM AI
 
-AI / ML
+AI assistant based on **GPT-2**.
+Built with Python and focused on conversational interaction and experimentation with LLM models.
 
-GPT-2
+---
 
-LLM Fine-tuning
+## 🌐 Links
 
-Conversational AI
+* Website: https://thebatyrcom-kz.vercel.app/
+* GitHub: https://github.com/TheBatyrcom
 
-🤖 Projects
+---
 
-TBM AI
-
-AI assistant based on GPT-2.Built with Python and focused on conversational interaction and experimentation with LLM models.
-
-🌐 Links
-
-Website: https://thebatyrcom-kz.vercel.app/
-
-GitHub: https://github.com/TheBatyrcom
-
-⭐ "Code with courage."
+⭐ *"Code with courage."*
